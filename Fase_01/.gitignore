@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.env/
+venv/
+
+# Output files
+relatorio_telemetria.csv
+
+# Jupyter notebooks (optional)
+*.ipynb
