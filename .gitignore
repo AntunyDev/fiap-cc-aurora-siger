@@ -1,0 +1,37 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local environment files
+.env
+.env.*
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS / OneDrive noise
+Thumbs.db
+Desktop.ini
+~$*
+
+# Generated delivery artifacts
+*.zip
+Fase_04/rede_colonia.pdf
+Fase_04/documentacao_complementar.pdf
+Fase_04/chrome_pdf_profile/
+
+# Notebook cache
+.ipynb_checkpoints/
