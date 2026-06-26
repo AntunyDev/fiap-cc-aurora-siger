@@ -328,6 +328,11 @@ Arquivos como `rede_colonia.pdf`, `documentacao_complementar.pdf`, `.zip`, `__py
 
 ---
 
+## Vídeo Explicativo do Código / Algoritmo
+https://youtu.be/Q0DMWrPxRoA
+
+---
+
 <div align="center">
 
 **🚀 Aurora Siger — Onde a tecnologia encontra Marte**
