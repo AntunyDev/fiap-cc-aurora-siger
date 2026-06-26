@@ -26,7 +26,6 @@
 - [Como Executar](#-como-executar)
 - [Funcionalidades do Menu](#-funcionalidades-do-menu)
 - [Estrutura de Arquivos](#-estrutura-de-arquivos)
-- [Equipe](#-equipe)
 
 ---
 
@@ -328,19 +327,12 @@ Fase_04/
 Arquivos como `rede_colonia.pdf`, `documentacao_complementar.pdf`, `.zip`, `__pycache__/` e ambientes virtuais são artefatos gerados localmente e ficam fora do versionamento pelo `.gitignore`.
 
 ---
-## 👥 Equipe
-
-> Projeto desenvolvido para a **Fase 04** — FIAP Ciência da Computação  
-> Disciplina: **Computational Thinking with Python + Mathematical Foundations**  
-> Turma: Aurora Siger
-
----
 
 <div align="center">
 
 **🚀 Aurora Siger — Onde a tecnologia encontra Marte**
 
-*Desenvolvido com 🤝 Python puro • Sem dependências externas • FIAP 2026*
+*Desenvolvido com Python • Sem dependências externas • FIAP 2026*
 
 </div>
 
