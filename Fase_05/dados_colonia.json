@@ -1,0 +1,94 @@
+{
+    "modulos": [
+        {
+            "nome": "HABIT-02",
+            "tipo": "Habitacao",
+            "prioridade": 2,
+            "combustivel": 30,
+            "massa": 42.5,
+            "criticidade": 7,
+            "hora_chegada": 6,
+            "sensor_ok": false,
+            "area_livre": true
+        },
+        {
+            "nome": "LAB-01",
+            "tipo": "Laboratorio",
+            "prioridade": 3,
+            "combustivel": 60,
+            "massa": 58,
+            "criticidade": 7,
+            "hora_chegada": 10,
+            "sensor_ok": true,
+            "area_livre": false
+        },
+        {
+            "nome": "LOG-02",
+            "tipo": "Logistica",
+            "prioridade": 3,
+            "combustivel": 20,
+            "massa": 30,
+            "criticidade": 5,
+            "hora_chegada": 14,
+            "sensor_ok": true,
+            "area_livre": false
+        },
+        {
+            "nome": "ENERG-01",
+            "tipo": "Energia",
+            "prioridade": 1,
+            "combustivel": 80,
+            "massa": 120,
+            "criticidade": 9,
+            "hora_chegada": 2,
+            "sensor_ok": false,
+            "area_livre": true
+        },
+        {
+            "nome": "COMMS-03",
+            "tipo": "Comunicacao",
+            "prioridade": 4,
+            "combustivel": 70,
+            "massa": 15,
+            "criticidade": 8,
+            "hora_chegada": 20,
+            "sensor_ok": true,
+            "area_livre": false
+        }
+    ],
+    "alertas": [
+        {
+            "id_alerta": 1,
+            "modulo_afetado": "HABIT-02",
+            "descricao_alerta": "Sensor de oxigenio apresentando leitura instavel e combustivel abaixo do limite operacional.",
+            "resultado_logico": null,
+            "classificacao_ia": null,
+            "prioridade_ia": null,
+            "recomendacao_ia": null,
+            "revisao_humana": null,
+            "resolvido": false
+        },
+        {
+            "id_alerta": 2,
+            "modulo_afetado": "ENERG-01",
+            "descricao_alerta": "Falha reportada no sensor do modulo energetico durante rotina de inspecao.",
+            "resultado_logico": null,
+            "classificacao_ia": null,
+            "prioridade_ia": null,
+            "recomendacao_ia": null,
+            "revisao_humana": null,
+            "resolvido": false
+        },
+        {
+            "id_alerta": 3,
+            "modulo_afetado": "LAB-01",
+            "descricao_alerta": "Bloqueio temporario de acesso a area do laboratorio para manutencao preventiva.",
+            "resultado_logico": false,
+            "classificacao_ia": "ROTINA",
+            "prioridade_ia": "BAIXA",
+            "recomendacao_ia": "Manter monitoramento operacional e registrar novas ocorrencias caso os parametros se alterem.",
+            "revisao_humana": "NAO",
+            "resolvido": true
+        }
+    ]
+}

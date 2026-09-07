@@ -1,0 +1,7 @@
+[01/09/2026 08:12] Sistema NCAS inicializado. Estrutura de dados carregada a partir de dados_colonia.json.
+[01/09/2026 08:15] Modulo LAB-01 passou por manutencao preventiva de rotina, sem ocorrencias registradas.
+[02/09/2026 14:30] Alerta ID 3 registrado para o modulo LAB-01. Evento: Bloqueio temporario de acesso a area do laboratorio para manutencao preventiva.
+[02/09/2026 14:32] Alerta ID 3 passou pela triagem logica. Resultado: NORMAL.
+[02/09/2026 14:33] IA simulada analisou o alerta ID 3. Classificacao: ROTINA. Prioridade: BAIXA. Revisao humana: NAO.
+[02/09/2026 14:35] Alerta ID 3 marcado como RESOLVIDO pelo operador.
+[04/09/2026 19:47] Modulo ENERG-01 apresentou variacao de leitura no sensor durante rotina noturna de telemetria.
