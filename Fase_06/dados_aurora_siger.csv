@@ -1,0 +1,364 @@
+ciclo,data_registro,modulo,tipo_modulo,codigo_sensor,nivel_prioridade,carga_trafego_mbps,qualidade_sinal_pct,temperatura_equip_c,tempestade_poeira,latencia_prevista_ms,latencia_observada_ms,tensao_v,corrente_a,consumo_kwh,status_operacional,mensagem_alerta
+1,2026-09-01,Agricultura Hidropônica,agricultura,0x2103,4,12.93,92.9,26.3,0,71.5,69.2,23.94,2.44,0.977,ativo,Sem alerta
+1,2026-09-01,Armazenamento de Dados,armazenamento de dados,0x61D4,4,23.5,94.2,27.6,0,46.7,46.6,24.06,3.1,1.307,ativo,Sem alerta
+1,2026-09-01,Comando Principal,comando,0x81A0,5,35.08,92.8,25.3,0,31.2,31.4,11.74,3.14,0.721,ativo,Sem alerta
+1,2026-09-01,Comunicação Central,comunicação,0x310A,5,43.5,94.0,28.7,0,37.8,39.7,47.63,4.33,3.662,ativo,Sem alerta
+1,2026-09-01,Comunicação Orbital,comunicação,0x32F1,5,37.8,90.9,23.7,0,215.6,225.2,48.39,4.92,4.526,ativo,Sem alerta
+1,2026-09-01,Controle Ambiental,controle,0x82B3,5,22.49,92.1,32.2,0,41.1,43.3,11.83,2.54,0.492,ativo,Sem alerta
+1,2026-09-01,Energia Solar,energia,0x7105,5,3.34,92.1,25.5,0,64.1,61.3,23.83,1.27,0.501,ativo,Sem alerta
+1,2026-09-01,Habitação Alfa,habitação,0x110A,3,20.48,90.4,30.0,0,51.7,57.1,23.53,2.22,0.987,ativo,Sem alerta
+1,2026-09-01,Habitação Beta,habitação,0x120B,3,14.01,95.2,30.1,0,55.9,53.6,24.17,1.94,0.846,ativo,Sem alerta
+1,2026-09-01,Laboratório Biológico,laboratório,0x4208,2,20.39,91.4,25.9,0,78.7,86.4,24.35,1.92,0.883,ativo,Sem alerta
+1,2026-09-01,Laboratório Geológico,laboratório,0x4107,2,15.78,95.2,27.9,0,82.8,257.5,24.23,1.74,0.798,alerta,Pico de latência detectado no enlace
+1,2026-09-01,Suporte Médico,suporte médico,0x51C2,5,26.61,94.8,30.2,0,41.6,39.0,24.31,2.52,1.176,ativo,Sem alerta
+2,2026-09-02,Agricultura Hidropônica,agricultura,0x2103,4,4.24,90.0,24.4,0,69.4,69.6,23.5,2.32,0.877,ativo,Sem alerta
+2,2026-09-02,Armazenamento de Dados,armazenamento de dados,0x61D4,4,38.96,93.5,25.4,0,48.9,50.5,24.55,3.39,1.621,ativo,Sem alerta
+2,2026-09-02,Comando Principal,comando,0x81A0,5,37.53,92.6,28.4,0,31.4,33.6,12.12,3.15,0.683,ativo,Sem alerta
+2,2026-09-02,Comunicação Central,comunicação,0x310A,5,78.58,93.8,30.4,0,41.3,43.6,48.3,5.02,4.311,ativo,Sem alerta
+2,2026-09-02,Comunicação Orbital,comunicação,0x32F1,5,49.89,92.0,24.6,0,224.3,224.0,48.11,5.19,4.512,ativo,Sem alerta
+2,2026-09-02,Controle Ambiental,controle,0x82B3,5,19.53,90.8,25.7,0,40.7,45.0,12.01,2.47,0.507,ativo,Sem alerta
+2,2026-09-02,Energia Solar,energia,0x7105,5,2.98,97.3,26.3,0,64.1,57.6,23.6,1.21,0.542,ativo,Sem alerta
+2,2026-09-02,Habitação Alfa,habitação,0x110A,3,14.12,88.7,28.7,0,50.7,56.4,23.48,2.09,0.915,ativo,Sem alerta
+2,2026-09-02,Habitação Beta,habitação,0x120B,3,17.55,97.0,26.0,0,56.6,49.0,24.08,2.12,0.88,ativo,Sem alerta
+2,2026-09-02,Laboratório Biológico,laboratório,0x4208,2,18.01,90.9,30.4,0,78.1,77.3,24.14,1.95,0.8,ativo,Sem alerta
+2,2026-09-02,Laboratório Geológico,laboratório,0x4107,2,26.15,92.9,34.1,0,85.7,89.7,23.82,1.96,0.756,ativo,Sem alerta
+2,2026-09-02,Suporte Médico,suporte médico,0x51C2,5,14.94,91.9,22.1,0,40.2,39.3,24.57,2.31,1.095,ativo,Sem alerta
+3,2026-09-03,Agricultura Hidropônica,agricultura,0x2103,4,12.95,91.4,18.4,0,71.5,72.9,23.81,2.42,1.06,ativo,Sem alerta
+3,2026-09-03,Armazenamento de Dados,armazenamento de dados,0x61D4,4,28.07,92.4,27.6,0,47.3,51.2,23.91,3.17,1.289,ativo,Sem alerta
+3,2026-09-03,Comando Principal,comando,0x81A0,5,57.7,94.5,33.9,0,33.0,35.8,12.31,3.68,0.86,ativo,Sem alerta
+3,2026-09-03,Comunicação Central,comunicação,0x310A,5,76.31,98.3,21.9,0,41.0,33.0,50.09,4.97,4.534,ativo,Sem alerta
+3,2026-09-03,Comunicação Orbital,comunicação,0x32F1,5,79.48,90.5,26.0,0,245.6,257.0,47.73,5.78,4.54,manutenção,Recalibração do sensor de sinal
+3,2026-09-03,Controle Ambiental,controle,0x82B3,5,20.82,91.3,31.0,0,40.9,41.6,11.97,2.58,0.505,ativo,Sem alerta
+3,2026-09-03,Energia Solar,energia,0x7105,5,5.82,93.8,33.9,0,64.7,61.8,23.88,1.31,0.582,ativo,Sem alerta
+3,2026-09-03,Habitação Alfa,habitação,0x110A,3,18.26,96.3,26.4,0,51.3,192.3,24.06,2.11,0.84,alerta,Pico de latência detectado no enlace
+3,2026-09-03,Habitação Beta,habitação,0x120B,3,13.38,99.3,34.5,0,55.8,49.6,23.47,1.94,0.732,ativo,Sem alerta
+3,2026-09-03,Laboratório Biológico,laboratório,0x4208,2,9.17,92.8,35.4,0,75.8,86.5,23.73,1.73,0.783,ativo,Sem alerta
+3,2026-09-03,Laboratório Geológico,laboratório,0x4107,2,12.72,91.6,28.9,0,82.0,87.9,24.13,1.76,0.816,ativo,Sem alerta
+3,2026-09-03,Suporte Médico,suporte médico,0x51C2,5,37.75,88.6,30.7,0,42.9,49.5,23.83,2.77,1.214,ativo,Sem alerta
+4,2026-09-04,Agricultura Hidropônica,agricultura,0x2103,4,12.59,97.0,18.7,0,71.4,64.4,23.43,2.53,1.092,ativo,Sem alerta
+4,2026-09-04,Armazenamento de Dados,armazenamento de dados,0x61D4,4,59.01,94.9,27.9,0,51.7,50.5,23.94,3.79,1.52,ativo,Sem alerta
+4,2026-09-04,Comando Principal,comando,0x81A0,5,51.04,92.3,27.8,0,32.5,34.6,11.99,3.59,0.789,ativo,Sem alerta
+4,2026-09-04,Comunicação Central,comunicação,0x310A,5,101.95,95.0,31.3,0,43.6,42.5,48.19,5.5,4.552,ativo,Sem alerta
+4,2026-09-04,Comunicação Orbital,comunicação,0x32F1,5,38.87,95.5,22.8,0,216.4,212.0,47.46,4.94,4.43,ativo,Sem alerta
+4,2026-09-04,Controle Ambiental,controle,0x82B3,5,8.88,89.3,23.4,0,39.5,43.3,12.31,2.21,0.441,ativo,Sem alerta
+4,2026-09-04,Energia Solar,energia,0x7105,5,7.25,92.3,26.5,0,65.0,68.5,23.53,1.27,0.573,ativo,Sem alerta
+4,2026-09-04,Habitação Alfa,habitação,0x110A,3,6.69,89.1,26.7,0,49.5,51.4,24.54,1.97,0.915,ativo,Sem alerta
+4,2026-09-04,Habitação Beta,habitação,0x120B,3,10.07,90.0,24.3,0,55.2,59.7,24.22,1.79,0.777,ativo,Sem alerta
+4,2026-09-04,Laboratório Biológico,laboratório,0x4208,2,26.52,93.3,32.2,0,80.3,75.5,23.42,2.09,0.839,ativo,Sem alerta
+4,2026-09-04,Laboratório Biológico,laboratório,0x4208,2,26.52,93.3,32.2,0,80.3,75.5,23.42,2.09,0.839,ativo,Sem alerta
+4,2026-09-04,Laboratório Geológico,laboratório,0x4107,2,18.16,96.3,30.4,0,83.5,83.4,24.84,1.85,0.758,ativo,Sem alerta
+4,2026-09-04,Suporte Médico,suporte médico,0x51C2,5,33.44,89.5,17.8,0,42.4,46.7,24.17,2.7,1.288,ativo,Sem alerta
+5,2026-09-05,Agricultura Hidropônica,agricultura,0x2103,4,4.78,92.7,28.4,0,69.5,77.0,24.02,2.3,0.949,ativo,Sem alerta
+5,2026-09-05,Armazenamento de Dados,armazenamento de dados,0x61D4,4,29.22,91.2,21.0,0,47.5,43.4,24.87,3.21,1.369,ativo,Sem alerta
+5,2026-09-05,Comando Principal,comando,0x81A0,5,59.51,90.6,23.4,0,33.2,37.7,12.25,3.67,0.733,ativo,Sem alerta
+5,2026-09-05,Comunicação Central,comunicação,0x310A,5,88.88,92.9,28.3,0,42.3,41.1,46.51,5.22,3.923,ativo,Sem alerta
+5,2026-09-05,Comunicação Orbital,comunicação,0x32F1,5,58.45,95.8,23.2,0,230.5,230.9,47.8,5.38,4.419,ativo,Sem alerta
+5,2026-09-05,Controle Ambiental,controle,0x82B3,5,15.84,96.9,25.6,0,40.3,33.9,12.08,2.34,0.483,ativo,Sem alerta
+5,2026-09-05,Energia Solar,energia,0x7105,5,7.64,92.3,27.4,0,65.1,65.7,24.12,1.39,0.556,ativo,Sem alerta
+5,2026-09-05,Habitação Alfa,habitação,0x110A,3,5.85,92.7,19.7,0,49.3,52.0,23.81,1.86,0.786,ativo,Sem alerta
+5,2026-09-05,Habitação Beta,habitação,0x120B,3,17.73,93.8,28.4,0,56.6,59.2,23.47,2.11,0.911,ativo,Sem alerta
+5,2026-09-05,Laboratório Biológico,laboratório,0x4208,2,22.05,91.1,28.7,0,79.1,78.1,24.22,2.07,0.961,ativo,Sem alerta
+5,2026-09-05,Laboratório Geológico,laboratório,0x4107,2,22.83,90.1,27.0,0,84.8,99.1,24.52,1.96,0.934,ativo,Sem alerta
+5,2026-09-05,Suporte Médico,suporte médico,0x51C2,5,18.42,94.1,25.8,0,40.6,40.9,23.88,2.27,1.04,ativo,Sem alerta
+6,2026-09-06,Agricultura Hidropônica,agricultura,0x2103,4,13.91,91.1,22.9,0,71.7,69.5,23.82,2.43,1.014,ativo,Sem alerta
+6,2026-09-06,Armazenamento de Dados,armazenamento de dados,0x61D4,4,75.48,94.9,28.8,0,54.0,48.1,23.63,4.12,1.817,ativo,Sem alerta
+6,2026-09-06,Comando Principal,comando,0x81A0,5,45.48,94.2,24.9,0,32.0,30.1,11.81,3.29,0.672,ativo,Sem alerta
+6,2026-09-06,Comunicação Central,comunicação,0x310A,5,90.47,91.1,30.6,0,42.4,237.6,48.39,5.32,4.694,ALERTA,Pico de latência detectado no enlace
+6,2026-09-06,Comunicação Orbital,comunicação,0x32F1,5,30.44,93.7,23.4,0,210.3,211.6,48.96,4.87,4.493,ativo,Sem alerta
+6,2026-09-06,Controle Ambiental,controle,0x82B3,5,12.47,88.2,25.8,0,39.9,,11.8,2.38,0.485,ativo,Sem alerta
+6,2026-09-06,Energia Solar,energia,0x7105,5,8.92,89.8,29.9,0,65.4,70.0,24.52,1.36,0.534,ativo,Sem alerta
+6,2026-09-06,Habitação Alfa,habitação,0x110A,3,16.73,87.0,23.9,0,51.1,54.2,24.09,2.13,0.947,ativo,Sem alerta
+6,2026-09-06,Habitação Beta,habitação,0x120B,3,6.16,90.5,29.8,0,54.5,59.3,24.2,1.84,0.853,ativo,Sem alerta
+6,2026-09-06,Laboratório Biológico,laboratório,0x4208,2,34.19,89.9,28.0,0,82.3,93.1,23.85,2.2,0.849,ativo,Sem alerta
+6,2026-09-06,Laboratório Geológico,laboratório,0x4107,2,27.46,90.1,25.8,0,86.1,85.1,24.72,1.99,0.889,ativo,Sem alerta
+6,2026-09-06,Suporte Médico,suporte médico,0x51C2,5,24.69,95.0,28.0,0,41.4,35.7,23.79,2.56,1.1,ativo,Sem alerta
+7,2026-09-07,Agricultura Hidropônica,agricultura,0x2103,4,8.04,88.8,26.9,0,70.3,72.2,23.97,2.28,0.94,ativo,Sem alerta
+7,2026-09-07,Armazenamento de Dados,armazenamento de dados,0x61D4,4,20.1,94.8,22.9,0,46.2,44.1,23.56,2.92,1.214,ativo,Sem alerta
+7,2026-09-07,Comando Principal,comando,0x81A0,5,17.19,90.2,28.8,0,29.8,33.2,11.97,2.86,0.549,ativo,Sem alerta
+7,2026-09-07,Comunicação Central,comunicação,0x310A,5,82.36,86.6,30.1,0,41.6,49.9,47.05,5.19,4.052,ativo,Sem alerta
+7,2026-09-07,Comunicação Orbital,comunicação,0x32F1,5,46.99,94.1,28.6,0,222.2,219.2,48.45,5.2,4.667,ativo,Sem alerta
+7,2026-09-07,Controle Ambiental,controle,0x82B3,5,5.78,89.0,18.0,0,39.1,45.8,11.82,2.12,0.402,ativo,Sem alerta
+7,2026-09-07,Energia Solar,energia,0x7105,5,8.73,92.8,31.5,0,65.3,59.3,23.67,1.45,0.591,ativo,Sem alerta
+7,2026-09-07,Habitação Alfa,habitação,0x110A,3,21.15,98.1,27.7,0,51.8,44.8,24.22,2.14,0.904,ativo,Sem alerta
+7,2026-09-07,Habitação Beta,habitação,0x120B,3,14.94,92.6,33.7,0,56.1,56.6,24.11,1.96,0.866,ativo,Sem alerta
+7,2026-09-07,Laboratório Biológico,laboratório,0x4208,2,8.97,87.4,23.7,0,75.7,79.4,23.65,1.73,0.735,ativo,Sem alerta
+7,2026-09-07,Laboratório Geológico,laboratório,0x4107,2,32.37,91.9,25.1,0,87.5,92.1,23.83,2.13,0.908,ativo,Sem alerta
+7,2026-09-07,Suporte Médico,suporte médico,0x51C2,5,11.53,90.4,26.8,0,39.8,44.8,23.67,2.26,0.935,ativo,Sem alerta
+8,2026-09-08,Agricultura Hidropônica,agricultura,0x2103,4,3.36,88.5,27.3,0,69.2,72.6,24.61,2.35,0.996,ativo,Sem alerta
+8,2026-09-08,Armazenamento de Dados,armazenamento de dados,0x61D4,4,28.96,90.2,25.1,0,47.5,53.9,24.11,3.12,1.337,ativo,Sem alerta
+8,2026-09-08,Comando Principal,comando,0x81A0,5,53.95,90.8,25.7,0,32.7,37.1,11.94,3.67,0.764,ativo,Sem alerta
+8,2026-09-08,Comunicação Central,comunicação,0x310A,5,87.51,93.0,27.8,0,42.2,40.5,48.04,5.18,3.995,manutenção,Manutenção preventiva programada
+8,2026-09-08,Comunicação Orbital,comunicação,0x32F1,5,89.59,95.2,27.0,0,252.9,252.9,47.85,5.94,4.84,ativo,Sem alerta
+8,2026-09-08,Controle Ambiental,controle,0x82B3,5,27.19,93.3,28.5,0,41.7,47.0,11.87,2.69,0.623,ativo,Sem alerta
+8,2026-09-08,Energia Solar,energia,0x7105,5,9.03,93.1,26.5,0,65.4,69.3,24.14,1.46,0.578,ativo,Sem alerta
+8,2026-09-08,Habitação Alfa,habitação,0x110A,3,17.38,94.3,25.5,0,51.2,47.5,23.89,2.1,0.915,ativo,Sem alerta
+8,2026-09-08,Habitação Beta,habitação,0x120B,3,12.23,90.7,30.4,0,55.6,60.4,24.45,1.98,0.831,ativo,Sem alerta
+8,2026-09-08,Laboratório Biológico,laboratório,0x4208,2,24.49,90.3,28.4,0,79.8,84.5,24.4,2.08,0.999,ativo,Sem alerta
+8,2026-09-08,Laboratório Geológico,laboratório,0x4107,2,24.05,94.3,28.6,0,85.1,227.6,24.38,2.03,0.84,alerta,Pico de latência detectado no enlace
+8,2026-09-08,Suporte Médico,suporte médico,0x51C2,5,25.44,92.5,24.7,0,41.5,42.5,23.77,2.52,1.049,ativo,Sem alerta
+9,2026-09-09,Agricultura Hidropônica,agricultura,0x2103,4,3.54,90.5,29.9,0,69.3,72.5,23.29,2.27,0.905,ATIVO,Sem alerta
+9,2026-09-09,Armazenamento de Dados,armazenamento de dados,0x61D4,4,51.06,97.7,26.3,0,50.5,45.8,24.03,3.62,1.701,ativo,Sem alerta
+9,2026-09-09,Comando Principal,comando,0x81A0,5,42.37,96.0,28.2,0,31.8,,11.47,3.37,0.725,ativo,Sem alerta
+9,2026-09-09,Comunicação Central,comunicação,0x310A,5,110.14,93.6,30.8,0,44.4,42.7,47.21,5.72,4.629,ativo,Sem alerta
+9,2026-09-09,Comunicação Orbital,comunicação,0x32F1,5,35.82,88.7,23.7,0,214.2,213.3,48.03,4.9,4.513,ativo,Sem alerta
+9,2026-09-09,Controle Ambiental,controle,0x82B3,5,8.82,94.2,22.4,0,39.5,36.7,11.91,2.39,0.535,ativo,Sem alerta
+9,2026-09-09,Energia Solar,energia,0x7105,5,9.63,93.8,29.4,0,65.5,60.8,24.34,1.44,0.678,ativo,Sem alerta
+9,2026-09-09,Habitação Alfa,habitação,0x110A,3,8.93,93.1,28.1,0,49.8,49.8,24.15,1.88,0.889,ativo,Sem alerta
+9,2026-09-09,Habitação Beta,habitação,0x120B,3,6.98,92.9,27.3,0,54.7,53.0,23.52,1.82,0.76,ativo,Sem alerta
+9,2026-09-09,Laboratório Biológico,laboratório,0x4208,2,32.2,89.8,27.3,0,81.8,81.4,24.14,2.27,0.928,ativo,Sem alerta
+9,2026-09-09,Laboratório Geológico,laboratório,0x4107,2,27.85,94.2,20.9,0,86.2,86.4,23.95,2.14,0.998,ativo,Sem alerta
+9,2026-09-09,Suporte Médico,suporte médico,0x51C2,5,35.54,96.6,29.1,0,42.7,40.8,23.89,2.67,1.23,ativo,Sem alerta
+10,2026-09-10,Agricultura Hidropônica,agricultura,0x2103,4,10.2,94.1,28.9,0,70.8,64.0,24.26,2.42,0.951,ativo,Sem alerta
+10,2026-09-10,Armazenamento de Dados,armazenamento de dados,0x61D4,4,61.13,94.2,24.9,0,52.0,50.5,23.8,3.86,1.763,ativo,Sem alerta
+10,2026-09-10,Comando Principal,comando,0x81A0,5,48.52,92.5,27.4,0,32.3,35.8,12.26,3.48,0.729,ativo,Sem alerta
+10,2026-09-10,Comunicação Central,comunicação,0x310A,5,111.4,92.2,25.1,0,44.5,46.8,49.29,5.79,5.001,ativo,Sem alerta
+10,2026-09-10,Comunicação Orbital,comunicação,0x32F1,5,73.19,93.3,27.5,0,241.1,249.6,47.47,5.64,4.728, Ativo ,Sem alerta
+10,2026-09-10,Controle Ambiental,controle,0x82B3,5,19.65,92.6,32.8,0,40.8,42.7,11.88,2.49,0.511,ativo,Sem alerta
+10,2026-09-10,Energia Solar,energia,0x7105,5,6.36,94.7,27.4,0,64.8,60.2,23.81,1.35,0.617,ativo,Sem alerta
+10,2026-09-10,Habitação Alfa,habitação,0x110A,3,9.24,93.3,23.0,0,49.9,248.4,23.91,1.95,0.825,alerta,Pico de latência detectado no enlace
+10,2026-09-10,Habitação Beta,habitação,0x120B,3,7.58,92.3,26.6,0,54.8,56.2,23.64,1.8,0.754,ativo,Sem alerta
+10,2026-09-10,Laboratório Biológico,laboratório,0x4208,2,14.66,90.4,27.2,0,77.2,79.2,24.22,1.91,0.897,ativo,Sem alerta
+10,2026-09-10,Laboratório Geológico,laboratório,0x4107,2,10.48,94.7,25.5,0,81.3,201.7,24.52,1.68,0.793,alerta,Pico de latência detectado no enlace
+10,2026-09-10,Suporte Médico,suporte médico,0x51C2,5,26.26,87.7,25.5,0,41.6,44.0,24.0,2.58,1.214,ativo,Sem alerta
+11,2026-09-11,Agricultura Hidropônica,agricultura,0x2103,4,4.34,89.1,29.6,0,69.4,73.1,24.0,2.33,1.03,ativo,Sem alerta
+11,2026-09-11,Armazenamento de Dados,armazenamento de dados,0x61D4,4,65.02,97.3,17.7,0,52.5,43.1,24.01,3.93,1.543,ativo,Sem alerta
+11,2026-09-11,Comando Principal,comando,0x81A0,5,58.9,86.9,21.3,0,33.1,39.0,11.95,3.6,0.78,ativo,Sem alerta
+11,2026-09-11,Comunicação Central,comunicação,0x310A,5,119.95,92.8,33.3,0,45.4,49.0,48.89,5.96,5.123, Ativo ,Sem alerta
+11,2026-09-11,Comunicação Orbital,comunicação,0x32F1,5,70.34,90.3,29.8,0,239.0,227.7,48.94,5.65,5.195,ativo,Sem alerta
+11,2026-09-11,Controle Ambiental,controle,0x82B3,5,25.71,97.5,25.4,0,41.5,35.4,11.66,2.61,0.534,ativo,Sem alerta
+11,2026-09-11,Energia Solar,energia,0x7105,5,3.4,95.6,27.7,0,64.1,64.2,23.8,1.3,0.542,ativo,Sem alerta
+11,2026-09-11,Habitação Alfa,habitação,0x110A,3,21.78,92.8,26.2,0,51.9,49.4,23.43,2.19,0.851,ativo,Sem alerta
+11,2026-09-11,Habitação Beta,habitação,0x120B,3,17.39,91.5,32.7,0,56.5,61.1,24.16,2.05,0.956,ativo,Sem alerta
+11,2026-09-11,Laboratório Biológico,laboratório,0x4208,2,8.01,91.1,26.1,0,75.5,77.0,24.64,1.76,0.716,ativo,Sem alerta
+11,2026-09-11,Laboratório Geológico,laboratório,0x4107,2,21.26,92.4,27.4,0,84.4,85.4,23.87,1.94,0.755,ativo,Sem alerta
+11,2026-09-11,Suporte Médico,suporte médico,0x51C2,5,34.69,92.3,24.3,0,42.6,,24.46,2.7,1.241,ativo,Sem alerta
+12,2026-09-12,Agricultura Hidropônica,agricultura,0x2103,4,10.03,71.1,32.9,1,70.8,141.6,21.85,2.4,1.005,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Armazenamento de Dados,armazenamento de dados,0x61D4,4,39.24,79.2,34.0,1,48.9,104.9,22.08,3.36,1.397,alerta,Latência acima do limite previsto
+12,2026-09-12,Comando Principal,comando,0x81A0,5,15.21,72.7,28.5,1,29.6,85.7,10.79,2.84,0.493,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Comunicação Central,comunicação,0x310A,5,65.63,78.7,36.1,1,40.0,96.3,45.05,4.78,3.528,alerta,Latência acima do limite previsto
+12,2026-09-12,Comunicação Orbital,comunicação,0x32F1,5,36.44,61.2,22.2,1,214.6,355.1,45.56,4.97,3.663,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Controle Ambiental,controle,0x82B3,5,24.67,68.9,35.0,1,41.4,111.3,11.22,2.49,0.502,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Energia Solar,energia,0x7105,5,4.06,69.6,29.6,1,64.3,138.5,22.7,1.3,0.536,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Habitação Alfa,habitação,0x110A,3,21.53,75.2,28.5,1,51.8,113.2,22.78,2.26,0.826,alerta,Latência acima do limite previsto
+12,2026-09-12,Habitação Beta,habitação,0x120B,3,9.25,73.7,29.5,1,55.1,118.5,23.08,1.92,0.746,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Laboratório Biológico,laboratório,0x4208,2,23.79,77.9,29.5,1,79.6,151.6,21.85,2.05,0.789,alerta,Latência acima do limite previsto
+12,2026-09-12,Laboratório Geológico,laboratório,0x4107,2,18.83,73.3,29.2,1,83.7,159.1,21.94,1.88,0.722,alerta,Perda parcial de sinal durante tempestade de poeira
+12,2026-09-12,Suporte Médico,suporte médico,0x51C2,5,28.99,70.6,26.3,1,41.9,101.4,22.79,2.59,1.069,alerta,Perda parcial de sinal durante tempestade de poeira
+13,2026-09-13,Agricultura Hidropônica,agricultura,0x2103,4,13.49,75.3,21.1,1,71.6,143.2,22.01,2.39,0.851,alerta,Latência acima do limite previsto
+13,2026-09-13,Armazenamento de Dados,armazenamento de dados,0x61D4,4,67.75,77.0,28.2,1,52.9,112.5,21.32,3.95,1.461,alerta,Latência acima do limite previsto
+13,2026-09-13,Comando Principal,comando,0x81A0,5,58.91,77.3,29.3,1,33.1,82.2,10.94,3.65,0.669,alerta,Latência acima do limite previsto
+13,2026-09-13,Comunicação Central,comunicação,0x310A,5,76.94,79.6,26.5,1,41.1,92.0,44.77,5.05,4.3,alerta,Latência acima do limite previsto
+13,2026-09-13,Comunicação Orbital,comunicação,0x32F1,5,88.47,66.4,37.8,1,252.1,376.0,44.03,5.94,5.154,alerta,Perda parcial de sinal durante tempestade de poeira
+13,2026-09-13,Controle Ambiental,controle,0x82B3,5,19.21,76.3,27.0,1,40.7,97.2,11.71,2.55,0.516,alerta,Latência acima do limite previsto
+13,2026-09-13,Energia Solar,energia,0x7105,5,5.13,83.3,28.3,1,64.5,117.3,22.36,1.33,0.497,alerta,Latência acima do limite previsto
+13,2026-09-13,Habitação Alfa,habitação,0x110A,3,24.31,68.5,22.4,1,52.3,118.4,21.91,2.32,0.922,alerta,Perda parcial de sinal durante tempestade de poeira
+13,2026-09-13,Habitação Beta,habitação,0x120B,3,24.64,74.3,15.9,1,57.8,120.1,22.92,2.21,0.87,alerta,Perda parcial de sinal durante tempestade de poeira
+13,2026-09-13,Laboratório Biológico,laboratório,0x4208,2,12.21,70.9,25.4,1,76.6,149.9,23.08,1.89,0.728,alerta,Perda parcial de sinal durante tempestade de poeira
+13,2026-09-13,Laboratório Geológico,laboratório,0x4107,2,33.89,74.8,30.7,1,87.9,159.3,22.83,2.2,0.958,alerta,Perda parcial de sinal durante tempestade de poeira
+13,2026-09-13,Suporte Médico,suporte médico,0x51C2,5,18.58,77.2,32.0,1,40.6,98.4,22.93,2.29,0.867,alerta,Latência acima do limite previsto
+14,2026-09-14,Agricultura Hidropônica,agricultura,0x2103,4,9.1,70.0,22.0,1,70.6,148.3,22.53,2.45,1.016,alerta,Perda parcial de sinal durante tempestade de poeira
+14,2026-09-14,Armazenamento de Dados,armazenamento de dados,0x61D4,4,48.87,74.3,29.8,1,50.2,107.4,21.98,3.59,1.402,alerta,Perda parcial de sinal durante tempestade de poeira
+14,2026-09-14,Comando Principal,comando,0x81A0,5,49.34,74.2,25.7,1,32.3,84.5,10.88,3.48,0.717,alerta,Perda parcial de sinal durante tempestade de poeira
+14,2026-09-14,Comunicação Central,comunicação,0x310A,5,44.07,82.1,25.8,1,37.8,83.7,45.27,4.36,3.476,alerta,Latência acima do limite previsto
+14,2026-09-14,Comunicação Orbital,comunicação,0x32F1,5,68.28,71.3,34.1,1,237.6,358.8,43.91,5.59,4.669,alerta,Perda parcial de sinal durante tempestade de poeira
+14,2026-09-14,Controle Ambiental,controle,0x82B3,5,16.52,83.8,18.5,1,40.4,88.0,11.24,2.37,0.438,alerta,Latência acima do limite previsto
+14,2026-09-14,Energia Solar,energia,0x7105,5,5.14,68.2,35.0,1,64.5,143.0,22.31,1.2,0.453,alerta,Perda parcial de sinal durante tempestade de poeira
+14,2026-09-14,Habitação Alfa,habitação,0x110A,3,6.81,82.2,30.9,1,49.5,102.2,21.95,2.01,0.812,alerta,Latência acima do limite previsto
+14,2026-09-14,Habitação Beta,habitação,0x120B,3,18.46,80.8,29.6,1,56.7,114.2,21.64,1.99,0.772,alerta,Latência acima do limite previsto
+14,2026-09-14,Laboratório Biológico,laboratório,0x4208,2,15.36,76.7,25.4,1,77.4,151.4,22.88,1.92,0.82,alerta,Latência acima do limite previsto
+14,2026-09-14,Laboratório Geológico,laboratório,0x4107,2,21.66,73.2,21.3,1,84.5,150.3,22.82,1.82,0.803,alerta,Perda parcial de sinal durante tempestade de poeira
+14,2026-09-14,Suporte Médico,suporte médico,0x51C2,5,15.26,78.4,28.3,1,40.2,93.6,22.36,2.25,0.82,alerta,Latência acima do limite previsto
+15,2026-09-15,Agricultura Hidropônica,agricultura,0x2103,4,11.18,77.4,30.2,1,71.1,135.4,22.54,2.37,0.901,alerta,Latência acima do limite previsto
+15,2026-09-15,Armazenamento de Dados,armazenamento de dados,0x61D4,4,44.12,79.8,28.3,1,49.6,,22.61,3.54,1.554,alerta,Latência acima do limite previsto
+15,2026-09-15,Comando Principal,comando,0x81A0,5,57.23,72.2,27.0,1,33.0,89.7,11.36,3.62,0.677,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Comunicação Central,comunicação,0x310A,5,62.1,75.4,29.9,1,39.6,92.0,45.01,4.74,4.079,alerta,Latência acima do limite previsto
+15,2026-09-15,Comunicação Orbital,comunicação,0x32F1,5,42.78,66.5,18.1,1,219.2,342.7,45.13,5.02,3.962,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Controle Ambiental,controle,0x82B3,5,10.96,76.1,31.7,1,39.7,96.5,10.95,2.35,0.476,alerta,Latência acima do limite previsto
+15,2026-09-15,Energia Solar,energia,0x7105,5,8.81,72.9,28.5,1,65.3,137.3,22.29,1.38,0.58,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Habitação Alfa,habitação,0x110A,3,9.5,74.4,23.3,1,49.9,114.9,22.51,1.98,0.816,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Habitação Beta,habitação,0x120B,3,23.78,71.0,29.2,1,57.7,125.9,22.5,2.16,0.928,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Laboratório Biológico,laboratório,0x4208,2,19.12,72.6,33.3,1,78.4,149.1,22.67,1.91,0.724,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Laboratório Geológico,laboratório,0x4107,2,28.17,73.3,23.1,1,86.3,157.6,21.98,2.03,0.876,alerta,Perda parcial de sinal durante tempestade de poeira
+15,2026-09-15,Suporte Médico,suporte médico,0x51C2,5,23.91,74.3,26.1,1,41.3,98.5,22.0,2.48,1.066,alerta,Perda parcial de sinal durante tempestade de poeira
+16,2026-09-16,Agricultura Hidropônica,agricultura,0x2103,4,12.24,70.9,28.5,1,71.3,247.7,22.04,2.51,0.896,alerta,Pico de latência detectado no enlace
+16,2026-09-16,Armazenamento de Dados,armazenamento de dados,0x61D4,4,40.76,75.9,23.7,1,49.1,107.1,23.15,3.35,1.439,alerta,Latência acima do limite previsto
+16,2026-09-16,Comando Principal,comando,0x81A0,5,39.94,79.2,22.9,1,31.6,80.3,11.12,3.25,0.638,alerta,Latência acima do limite previsto
+16,2026-09-16,Comunicação Central,comunicação,0x310A,5,67.86,79.3,26.4,1,40.2,91.6,44.27,4.83,3.598,alerta,Latência acima do limite previsto
+16,2026-09-16,Comunicação Orbital,comunicação,0x32F1,5,61.88,70.2,20.0,1,233.0,350.6,44.57,5.32,4.266,alerta,Perda parcial de sinal durante tempestade de poeira
+16,2026-09-16,Controle Ambiental,controle,0x82B3,5,15.23,75.7,23.3,1,40.2,101.5,11.13,2.41,0.476,alerta,Latência acima do limite previsto
+16,2026-09-16,Energia Solar,energia,0x7105,5,8.85,71.9,25.0,1,65.3,137.9,21.92,1.35,0.505,alerta,Perda parcial de sinal durante tempestade de poeira
+16,2026-09-16,Habitação Alfa,habitação,0x110A,3,15.46,69.1,20.0,1,50.9,120.3,22.97,2.1,0.859,alerta,Perda parcial de sinal durante tempestade de poeira
+16,2026-09-16,Habitação Beta,habitação,0x120B,3,24.73,75.1,27.0,1,57.9,120.8,22.75,2.2,0.858,alerta,Latência acima do limite previsto
+16,2026-09-16,Laboratório Biológico,laboratório,0x4208,2,32.38,76.2,29.4,1,81.8,144.5,21.45,2.34,0.819,alerta,Latência acima do limite previsto
+16,2026-09-16,Laboratório Geológico,laboratório,0x4107,2,20.86,73.5,31.1,1,84.2,157.4,21.63,1.91,0.811,alerta,Perda parcial de sinal durante tempestade de poeira
+16,2026-09-16,Suporte Médico,suporte médico,0x51C2,5,13.98,72.8,27.3,1,40.1,99.8,22.33,2.21,0.871,alerta,Perda parcial de sinal durante tempestade de poeira
+17,2026-09-17,Agricultura Hidropônica,agricultura,0x2103,4,3.01,93.7,25.8,0,69.1,210.0,23.95,2.23,0.889,alerta,Pico de latência detectado no enlace
+17,2026-09-17,Armazenamento de Dados,armazenamento de dados,0x61D4,4,33.67,93.1,22.5,0,48.1,47.2,23.77,3.29,1.33,ativo,Sem alerta
+17,2026-09-17,Comando Principal,comando,0x81A0,5,51.12,93.7,27.6,0,32.5,,11.93,3.53,0.707,ativo,Sem alerta
+17,2026-09-17,Comunicação Central,comunicação,0x310A,5,90.13,94.1,25.8,0,42.4,40.5,46.62,5.33,4.438,ativo,Sem alerta
+17,2026-09-17,Comunicação Orbital,comunicação,0x32F1,5,80.98,88.1,19.1,0,246.7,255.5,48.12,5.8,5.494,ativo,Sem alerta
+17,2026-09-17,Controle Ambiental,controle,0x82B3,5,23.12,90.0,22.7,0,41.2,41.5,12.33,2.63,0.547,ativo,Sem alerta
+17,2026-09-17,Energia Solar,energia,0x7105,5,2.44,91.3,26.3,0,63.9,,23.5,1.28,0.532,ativo,Sem alerta
+17,2026-09-17,Habitação Alfa,habitação,0x110A,3,14.98,95.8,28.2,0,50.8,44.2,23.6,2.17,0.835,ativo,Sem alerta
+17,2026-09-17,Habitação Beta,habitação,0x120B,3,14.63,90.5,29.8,0,56.0,62.3,23.43,2.01,0.791,ativo,Sem alerta
+17,2026-09-17,Laboratório Biológico,laboratório,0x4208,2,34.61,90.8,26.1,0,82.4,87.9,23.6,2.31,0.988,ativo,Sem alerta
+17,2026-09-17,Laboratório Geológico,laboratório,0x4107,2,22.22,92.3,18.6,0,84.6,88.6,24.23,1.9,0.79,ativo,Sem alerta
+17,2026-09-17,Suporte Médico,suporte médico,0x51C2,5,29.1,92.4,32.9,0,41.9,43.4,24.0,2.63,1.208,ativo,Sem alerta
+18,2026-09-18,Agricultura Hidropônica,agricultura,0x2103,4,12.89,91.6,31.3,0,71.5,267.4,23.58,2.46,1.093,alerta,Pico de latência detectado no enlace
+18,2026-09-18,Armazenamento de Dados,armazenamento de dados,0x61D4,4,70.74,93.5,22.9,0,53.3,54.6,23.9,3.99,1.838,ativo,Sem alerta
+18,2026-09-18,Comando Principal,comando,0x81A0,5,27.58,93.3,33.8,0,30.6,31.7,11.66,3.06,0.605,ativo,Sem alerta
+18,2026-09-18,Comunicação Central,comunicação,0x310A,5,117.62,94.1,23.9,0,45.2,44.6,45.9,5.91,4.965,ativo,Sem alerta
+18,2026-09-18,Comunicação Orbital,comunicação,0x32F1,5,64.31,92.2,21.1,0,234.7,223.8,46.62,5.54,4.627,ativo,Sem alerta
+18,2026-09-18,Controle Ambiental,controle,0x82B3,5,14.85,91.6,27.1,0,40.2,41.4,11.95,2.41,0.497,ativo,Sem alerta
+18,2026-09-18,Energia Solar,energia,0x7105,5,3.13,92.4,24.1,0,64.1,66.4,23.97,1.24,0.522,ativo,Sem alerta
+18,2026-09-18,Habitação Alfa,habitação,0x110A,3,12.04,91.9,27.4,0,50.3,46.9,23.62,2.05,0.921,ativo,Sem alerta
+18,2026-09-18,Habitação Beta,habitação,0x120B,3,7.06,91.0,22.5,0,54.7,51.2,23.79,1.76,0.736,ativo,Sem alerta
+18,2026-09-18,Laboratório Biológico,laboratório,0x4208,2,31.21,92.9,22.4,0,81.5,79.0,23.54,2.23,0.975,ATIVO,Sem alerta
+18,2026-09-18,Laboratório Geológico,laboratório,0x4107,2,34.18,90.5,30.5,0,88.0,94.5,23.85,2.14,0.957,ativo,Sem alerta
+18,2026-09-18,Suporte Médico,suporte médico,0x51C2,5,14.52,88.5,24.0,0,40.1,43.9,24.72,2.29,0.968,ativo,Sem alerta
+19,2026-09-19,Agricultura Hidropônica,agricultura,0x2103,4,13.11,94.6,21.9,0,71.5,76.1,24.0,2.54,1.037,ativo,Sem alerta
+19,2026-09-19,Armazenamento de Dados,armazenamento de dados,0x61D4,4,29.77,93.9,25.8,0,47.6,46.1,23.99,3.22,1.314,manutenção,Manutenção preventiva programada
+19,2026-09-19,Armazenamento de Dados,armazenamento de dados,0x61D4,4,29.77,93.9,25.8,0,47.6,46.1,23.99,3.22,1.314,manutenção,Manutenção preventiva programada
+19,2026-09-19,Comando Principal,comando,0x81A0,5,19.04,94.0,22.4,0,29.9,29.0,12.14,2.88,0.628,ativo,Sem alerta
+19,2026-09-19,Comunicação Central,comunicação,0x310A,5,47.26,94.5,28.9,0,38.1,36.4,48.09,4.44,4.102,ativo,Sem alerta
+19,2026-09-19,Comunicação Orbital,comunicação,0x32F1,5,46.77,86.5,27.8,0,222.1,224.7,47.64,5.17,3.974,ativo,Sem alerta
+19,2026-09-19,Controle Ambiental,controle,0x82B3,5,24.35,93.5,29.5,0,41.3,41.0,12.02,2.63,0.542,ativo,Sem alerta
+19,2026-09-19,Energia Solar,energia,0x7105,5,2.87,88.1,26.0,0,64.0,70.2,23.99,1.26,0.522,ativo,Sem alerta
+19,2026-09-19,Habitação Alfa,habitação,0x110A,3,7.01,94.0,29.2,0,49.5,48.9,24.03,1.96,0.892,ativo,Sem alerta
+19,2026-09-19,Habitação Beta,habitação,0x120B,3,23.58,98.5,25.2,0,57.6,49.2,24.09,2.1,0.996,manutenção,Manutenção preventiva programada
+19,2026-09-19,Laboratório Biológico,laboratório,0x4208,2,17.76,90.5,29.6,0,78.0,82.9,23.6,1.99,0.84,ativo,Sem alerta
+19,2026-09-19,Laboratório Geológico,laboratório,0x4107,2,13.4,91.8,31.0,0,82.2,80.2,24.33,1.8,0.818,ativo,Sem alerta
+19,2026-09-19,Suporte Médico,suporte médico,0x51C2,5,17.15,93.9,29.3,0,40.5,38.5,23.78,2.29,1.072,ativo,Sem alerta
+20,2026-09-20,Agricultura Hidropônica,agricultura,0x2103,4,13.55,93.3,27.9,0,71.7,74.1,24.02,2.43,0.991,ativo,Sem alerta
+20,2026-09-20,Armazenamento de Dados,armazenamento de dados,0x61D4,4,41.31,90.3,25.8,0,49.2,49.9,24.02,3.45,1.348,manutenção,Manutenção preventiva programada
+20,2026-09-20,Comando Principal,comando,0x81A0,5,39.17,94.8,23.3,0,31.5,28.2,12.03,3.19,0.652,ativo,Sem alerta
+20,2026-09-20,Comunicação Central,comunicação,0x310A,5,52.14,98.5,24.9,0,38.6,32.6,48.07,4.66,4.239,ativo,Sem alerta
+20,2026-09-20,Comunicação Orbital,comunicação,0x32F1,5,80.29,92.1,28.0,0,246.2,256.4,48.91,5.8,5.521,ativo,Sem alerta
+20,2026-09-20,Controle Ambiental,controle,0x82B3,5,14.7,91.0,24.8,0,40.2,42.3,12.11,2.45,0.532,ativo,Sem alerta
+20,2026-09-20,Energia Solar,energia,0x7105,5,4.71,93.6,19.6,0,64.4,60.4,24.01,1.29,0.532,ativo,Sem alerta
+20,2026-09-20,Habitação Alfa,habitação,0x110A,3,6.89,96.9,28.0,0,49.5,40.8,24.28,1.92,0.886,ativo,Sem alerta
+20,2026-09-20,Habitação Beta,habitação,0x120B,3,22.14,91.0,27.8,0,57.4,60.8,24.33,2.15,0.915,ativo,Sem alerta
+20,2026-09-20,Laboratório Biológico,laboratório,0x4208,2,11.2,90.3,27.9,0,76.3,81.9,23.71,1.86,0.778,ativo,Sem alerta
+20,2026-09-20,Laboratório Geológico,laboratório,0x4107,2,23.22,91.2,24.2,0,84.9,83.1,23.87,1.97,0.799,ativo,Sem alerta
+20,2026-09-20,Suporte Médico,suporte médico,0x51C2,5,13.12,96.3,29.5,0,40.0,37.2,25.01,2.18,1.063,ATIVO,Sem alerta
+21,2026-09-21,Agricultura Hidropônica,agricultura,0x2103,4,3.44,93.4,29.3,0,69.2,76.6,24.17,2.21,0.925,ativo,Sem alerta
+21,2026-09-21,Armazenamento de Dados,armazenamento de dados,0x61D4,4,49.88,96.1,27.1,0,50.4,49.0,24.17,3.62,1.68,ativo,Sem alerta
+21,2026-09-21,Comando Principal,comando,0x81A0,5,52.6,91.7,25.8,0,32.6,33.5,11.5,3.53,0.715,ativo,Sem alerta
+21,2026-09-21,Comunicação Central,comunicação,0x310A,5,56.35,90.4,26.8,0,39.0,42.0,47.78,4.69,4.176,ativo,Sem alerta
+21,2026-09-21,Comunicação Orbital,comunicação,0x32F1,5,48.46,94.2,24.5,0,223.3,204.7,47.96,5.23,4.897,ativo,Sem alerta
+21,2026-09-21,Controle Ambiental,controle,0x82B3,5,17.22,93.0,32.2,0,40.5,42.6,12.05,2.51,0.584,ativo,Sem alerta
+21,2026-09-21,Energia Solar,energia,0x7105,5,6.54,89.0,28.8,0,64.8,73.3,23.85,1.39,0.539,ativo,Sem alerta
+21,2026-09-21,Habitação Alfa,habitação,0x110A,3,20.87,94.5,25.3,0,51.7,51.8,24.47,2.31,1.021,ativo,Sem alerta
+21,2026-09-21,Habitação Beta,habitação,0x120B,3,20.03,92.8,24.4,0,57.0,53.3,23.72,2.1,0.956,ativo,Sem alerta
+21,2026-09-21,Laboratório Biológico,laboratório,0x4208,2,10.13,93.3,26.2,0,76.0,77.5,24.22,1.79,0.775,ativo,Sem alerta
+21,2026-09-21,Laboratório Geológico,laboratório,0x4107,2,20.73,87.0,31.1,0,84.2,87.3,24.09,1.97,0.917,ativo,Sem alerta
+21,2026-09-21,Suporte Médico,suporte médico,0x51C2,5,10.98,90.3,29.5,0,39.7,44.6,22.9,2.16,0.827,ativo,Sem alerta
+22,2026-09-22,Agricultura Hidropônica,agricultura,0x2103,4,3.1,91.8,27.3,0,69.1,80.6,24.38,2.3,1.023,ativo,Sem alerta
+22,2026-09-22,Armazenamento de Dados,armazenamento de dados,0x61D4,4,59.86,95.8,26.8,0,51.8,44.3,23.4,3.81,1.588,ativo,Sem alerta
+22,2026-09-22,Comando Principal,comando,0x81A0,5,39.19,90.8,20.4,0,31.5,34.5,11.57,3.26,0.617,ativo,Sem alerta
+22,2026-09-22,Comunicação Central,comunicação,0x310A,5,68.74,92.5,30.2,0,40.3,39.6,47.5,4.95,4.25,ativo,Sem alerta
+22,2026-09-22,Comunicação Orbital,comunicação,0x32F1,5,77.54,92.9,27.8,0,244.2,231.5,48.11,5.77,4.784,ativo,Sem alerta
+22,2026-09-22,Controle Ambiental,controle,0x82B3,5,10.54,89.4,31.4,0,39.7,47.6,11.89,2.34,0.535,ativo,Sem alerta
+22,2026-09-22,Energia Solar,energia,0x7105,5,2.39,92.5,24.4,0,63.9,66.4,24.35,1.26,0.582,ativo,Sem alerta
+22,2026-09-22,Habitação Alfa,habitação,0x110A,3,18.7,92.3,28.6,0,51.4,57.6,24.15,2.24,0.927,ativo,Sem alerta
+22,2026-09-22,Habitação Beta,habitação,0x120B,3,12.3,94.3,18.1,0,55.6,58.0,24.36,1.9,0.783,ativo,Sem alerta
+22,2026-09-22,Laboratório Biológico,laboratório,0x4208,2,33.15,90.2,26.0,0,82.0,84.9,23.87,2.14,0.832,ativo,Sem alerta
+22,2026-09-22,Laboratório Geológico,laboratório,0x4107,2,26.41,90.5,25.6,0,85.8,90.8,24.53,2.08,0.919,ativo,Sem alerta
+22,2026-09-22,Suporte Médico,suporte médico,0x51C2,5,28.95,92.8,25.9,0,41.9,43.6,23.81,2.61,1.217,ativo,Sem alerta
+23,2026-09-23,Agricultura Hidropônica,agricultura,0x2103,4,14.08,93.2,29.3,0,71.8,68.1,24.29,2.61,1.025,ativo,Sem alerta
+23,2026-09-23,Armazenamento de Dados,armazenamento de dados,0x61D4,4,37.64,95.7,35.8,0,48.7,49.8,23.8,3.41,1.31,ativo,Sem alerta
+23,2026-09-23,Comando Principal,comando,0x81A0,5,19.5,93.5,30.2,0,30.0,29.6,12.0,2.96,0.641,ativo,Sem alerta
+23,2026-09-23,Comunicação Central,comunicação,0x310A,5,116.04,95.0,24.9,0,45.0,41.9,47.4,5.8,5.059,ativo,Sem alerta
+23,2026-09-23,Comunicação Orbital,comunicação,0x32F1,5,55.19,88.4,19.3,0,228.1,220.1,47.89,5.24,4.533,ativo,Sem alerta
+23,2026-09-23,Controle Ambiental,controle,0x82B3,5,22.42,97.5,26.1,0,41.1,32.5,12.12,2.54,0.545,ativo,Sem alerta
+23,2026-09-23,Energia Solar,energia,0x7105,5,5.71,94.2,31.9,0,64.7,67.7,24.13,1.36,0.574,ativo,Sem alerta
+23,2026-09-23,Habitação Alfa,habitação,0x110A,3,15.4,96.9,25.3,0,50.9,46.5,24.76,2.08,0.921,ativo,Sem alerta
+23,2026-09-23,Habitação Beta,habitação,0x120B,3,7.12,95.6,22.9,0,54.7,51.9,23.66,1.79,0.743,ativo,Sem alerta
+23,2026-09-23,Laboratório Biológico,laboratório,0x4208,2,25.04,87.9,27.8,0,79.9,283.9,23.68,2.11,0.871,alerta,Pico de latência detectado no enlace
+23,2026-09-23,Laboratório Geológico,laboratório,0x4107,2,12.41,96.3,29.6,0,81.9,78.0,23.84,1.76,0.815,ativo,Sem alerta
+23,2026-09-23,Suporte Médico,suporte médico,0x51C2,5,10.37,92.7,27.4,0,39.6,41.5,24.0,2.25,0.899,ativo,Sem alerta
+24,2026-09-24,Agricultura Hidropônica,agricultura,0x2103,4,10.37,88.7,29.0,0,70.9,70.0,23.84,2.3,1.037,ativo,Sem alerta
+24,2026-09-24,Armazenamento de Dados,armazenamento de dados,0x61D4,4,70.44,92.8,27.8,0,53.3,56.0,23.64,4.0,1.539,ativo,Sem alerta
+24,2026-09-24,Comando Principal,comando,0x81A0,5,48.55,91.3,24.3,0,32.3,36.2,11.9,3.46,0.773,ativo,Sem alerta
+24,2026-09-24,Comunicação Central,comunicação,0x310A,5,79.54,95.1,32.7,0,41.4,43.3,48.03,5.16,4.178,ativo,Sem alerta
+24,2026-09-24,Comunicação Orbital,comunicação,0x32F1,5,64.27,93.5,28.8,0,234.7,214.5,49.64,5.52,4.891,ativo,Sem alerta
+24,2026-09-24,Controle Ambiental,controle,0x82B3,5,21.79,92.9,27.4,0,41.0,39.4,12.0,2.59,0.599,ativo,Sem alerta
+24,2026-09-24,Energia Solar,energia,0x7105,5,5.74,95.1,24.6,0,64.7,60.9,23.76,1.31,0.555,ativo,Sem alerta
+24,2026-09-24,Energia Solar,energia,0x7105,5,5.74,95.1,24.6,0,64.7,60.9,23.76,1.31,0.555,ativo,Sem alerta
+24,2026-09-24,Habitação Alfa,habitação,0x110A,3,8.32,95.9,29.2,0,49.7,46.9,23.94,2.02,0.937,ativo,Sem alerta
+24,2026-09-24,Habitação Beta,habitação,0x120B,3,13.14,94.6,28.9,0,55.8,55.0,24.28,1.96,0.768,ativo,Sem alerta
+24,2026-09-24,Laboratório Biológico,laboratório,0x4208,2,23.52,94.2,31.0,0,79.5,79.2,24.11,2.1,0.97,ativo,Sem alerta
+24,2026-09-24,Laboratório Geológico,laboratório,0x4107,2,25.01,94.0,23.7,0,85.4,80.2,24.49,1.95,0.892,ativo,Sem alerta
+24,2026-09-24,Suporte Médico,suporte médico,0x51C2,5,22.6,94.8,20.6,0,41.1,37.5,24.1,2.36,0.932,ativo,Sem alerta
+25,2026-09-25,Agricultura Hidropônica,agricultura,0x2103,4,13.33,90.9,26.9,0,71.6,218.7,23.94,2.49,1.033,alerta,Pico de latência detectado no enlace
+25,2026-09-25,Armazenamento de Dados,armazenamento de dados,0x61D4,4,70.47,85.8,28.2,0,53.3,61.6,24.25,4.01,1.684,ativo,Sem alerta
+25,2026-09-25,Comando Principal,comando,0x81A0,5,45.91,92.1,23.4,0,32.1,33.0,11.77,3.36,0.778,ativo,Sem alerta
+25,2026-09-25,Comunicação Central,comunicação,0x310A,5,72.83,92.1,21.3,0,40.7,41.1,47.71,4.94,3.781,ativo,Sem alerta
+25,2026-09-25,Comunicação Orbital,comunicação,0x32F1,5,63.3,96.6,25.1,0,234.0,234.9,48.26,5.54,4.857,ativo,Sem alerta
+25,2026-09-25,Controle Ambiental,controle,0x82B3,5,19.49,92.9,25.4,0,40.7,39.1,12.44,2.56,0.517,ativo,Sem alerta
+25,2026-09-25,Energia Solar,energia,0x7105,5,6.11,93.3,27.6,0,64.7,67.8,24.06,1.39,0.561,ativo,Sem alerta
+25,2026-09-25,Habitação Alfa,habitação,0x110A,3,21.39,92.2,26.1,0,51.8,54.4,24.21,2.22,1.024,ativo,Sem alerta
+25,2026-09-25,Habitação Beta,habitação,0x120B,3,14.37,92.6,33.6,0,56.0,57.9,24.86,1.93,0.815,ativo,Sem alerta
+25,2026-09-25,Laboratório Biológico,laboratório,0x4208,2,14.08,88.2,21.9,0,77.1,78.8,23.87,1.95,0.867,ativo,Sem alerta
+25,2026-09-25,Laboratório Geológico,laboratório,0x4107,2,30.8,96.1,26.1,0,87.0,87.5,23.47,2.12,0.89,manutenção,Recalibração do sensor de sinal
+25,2026-09-25,Suporte Médico,suporte médico,0x51C2,5,25.75,94.0,23.6,0,41.5,41.9,24.3,2.57,1.105,ativo,Sem alerta
+26,2026-09-26,Agricultura Hidropônica,agricultura,0x2103,4,3.65,91.3,20.5,0,69.3,69.4,23.8,2.24,0.999,ativo,Sem alerta
+26,2026-09-26,Armazenamento de Dados,armazenamento de dados,0x61D4,4,44.08,91.7,27.0,0,49.6,50.0,24.28,3.52,1.542,ativo,Sem alerta
+26,2026-09-26,Comando Principal,comando,0x81A0,5,18.98,95.5,30.9,0,29.9,26.5,11.98,2.91,0.577,ATIVO,Sem alerta
+26,2026-09-26,Comunicação Central,comunicação,0x310A,5,76.1,94.9,30.9,0,41.0,40.3,47.88,5.0,4.165,ativo,Sem alerta
+26,2026-09-26,Comunicação Orbital,comunicação,0x32F1,5,77.22,94.2,23.0,0,244.0,258.8,48.36,5.8,4.559,ativo,Sem alerta
+26,2026-09-26,Controle Ambiental,controle,0x82B3,5,14.48,92.6,31.4,0,40.1,42.8,11.88,2.34,0.46,ativo,Sem alerta
+26,2026-09-26,Energia Solar,energia,0x7105,5,2.19,94.7,22.9,0,63.9,61.9,24.66,1.34,0.604,ativo,Sem alerta
+26,2026-09-26,Habitação Alfa,habitação,0x110A,3,7.38,88.6,31.1,0,49.6,58.6,23.83,1.94,0.89,ativo,Sem alerta
+26,2026-09-26,Habitação Beta,habitação,0x120B,3,5.8,92.0,20.5,0,54.4,55.9,23.57,1.85,0.744,ativo,Sem alerta
+26,2026-09-26,Laboratório Biológico,laboratório,0x4208,2,28.19,91.6,29.2,0,80.7,81.4,23.77,2.15,0.843,ativo,Sem alerta
+26,2026-09-26,Laboratório Geológico,laboratório,0x4107,2,18.16,92.9,24.7,0,83.5,81.8,23.96,1.82,0.807,ATIVO,Sem alerta
+26,2026-09-26,Suporte Médico,suporte médico,0x51C2,5,26.71,90.9,27.4,0,41.6,47.3,24.1,2.47,1.0,ativo,Sem alerta
+27,2026-09-27,Agricultura Hidropônica,agricultura,0x2103,4,9.76,93.2,29.3,0,70.7,63.9,23.61,2.3,0.873,ativo,Sem alerta
+27,2026-09-27,Armazenamento de Dados,armazenamento de dados,0x61D4,4,23.64,91.2,27.9,0,46.7,46.2,23.76,3.12,1.337,ativo,Sem alerta
+27,2026-09-27,Comando Principal,comando,0x81A0,5,18.8,92.0,24.0,0,29.9,33.1,12.0,2.86,0.663,ativo,Sem alerta
+27,2026-09-27,Comunicação Central,comunicação,0x310A,5,57.8,91.7,23.7,0,39.2,41.4,48.64,4.69,4.467,ativo,Sem alerta
+27,2026-09-27,Comunicação Orbital,comunicação,0x32F1,5,39.21,94.3,27.6,0,216.6,210.8,47.41,5.01,3.813,ativo,Sem alerta
+27,2026-09-27,Controle Ambiental,controle,0x82B3,5,22.45,94.1,29.9,0,41.1,41.9,12.14,2.53,0.577,ativo,Sem alerta
+27,2026-09-27,Energia Solar,energia,0x7105,5,5.78,92.2,24.0,0,64.7,68.5,24.38,1.28,0.527,ativo,Sem alerta
+27,2026-09-27,Habitação Alfa,habitação,0x110A,3,18.47,95.4,26.4,0,51.4,51.9,24.09,2.13,1.011,manutenção,Recalibração do sensor de sinal
+27,2026-09-27,Habitação Beta,habitação,0x120B,3,18.48,90.8,21.1,0,56.7,61.1,25.1,2.02,0.922,ativo,Sem alerta
+27,2026-09-27,Laboratório Biológico,laboratório,0x4208,2,23.49,95.6,24.9,0,79.5,74.9,24.41,2.07,0.963,ativo,Sem alerta
+27,2026-09-27,Laboratório Geológico,laboratório,0x4107,2,32.68,91.3,24.4,0,87.5,84.5,24.03,2.11,0.873,ativo,Sem alerta
+27,2026-09-27,Suporte Médico,suporte médico,0x51C2,5,31.3,97.7,27.0,0,42.2,32.5,24.7,2.7,1.087,ativo,Sem alerta
+28,2026-09-28,Agricultura Hidropônica,agricultura,0x2103,4,14.09,93.3,28.3,0,71.8,68.6,23.78,2.6,1.192,ativo,Sem alerta
+28,2026-09-28,Armazenamento de Dados,armazenamento de dados,0x61D4,4,77.19,89.6,23.6,0,54.2,58.9,24.21,4.08,1.819,ativo,Sem alerta
+28,2026-09-28,Comando Principal,comando,0x81A0,5,27.18,92.1,28.9,0,30.6,32.3,12.26,3.09,0.635,ativo,Sem alerta
+28,2026-09-28,Comunicação Central,comunicação,0x310A,5,91.88,93.6,21.7,0,42.6,41.1,49.14,5.35,4.792,ativo,Sem alerta
+28,2026-09-28,Comunicação Orbital,comunicação,0x32F1,5,44.67,92.9,36.6,0,220.6,220.7,47.13,5.21,4.341,manutenção,Manutenção preventiva programada
+28,2026-09-28,Controle Ambiental,controle,0x82B3,5,8.22,91.9,22.4,0,39.4,39.9,11.88,2.25,0.499,ativo,Sem alerta
+28,2026-09-28,Energia Solar,energia,0x7105,5,9.5,93.3,26.6,0,65.5,62.3,24.45,1.38,0.562,ativo,Sem alerta
+28,2026-09-28,Habitação Alfa,habitação,0x110A,3,16.41,94.3,27.5,0,51.0,49.9,23.54,2.13,0.949,ativo,Sem alerta
+28,2026-09-28,Habitação Beta,habitação,0x120B,3,10.08,89.0,32.6,0,55.2,60.3,23.99,1.95,0.861,ativo,Sem alerta
+28,2026-09-28,Laboratório Biológico,laboratório,0x4208,2,13.99,98.9,25.6,0,77.0,68.3,24.36,1.85,0.798,ativo,Sem alerta
+28,2026-09-28,Laboratório Geológico,laboratório,0x4107,2,34.03,94.7,34.9,0,87.9,83.3,23.83,2.08,0.907,ativo,Sem alerta
+28,2026-09-28,Suporte Médico,suporte médico,0x51C2,5,37.57,87.9,22.1,0,42.9,51.7,23.73,2.74,1.105,ativo,Sem alerta
+29,2026-09-29,Agricultura Hidropônica,agricultura,0x2103,4,5.23,90.2,27.9,0,69.7,71.1,24.27,2.25,1.068,ativo,Sem alerta
+29,2026-09-29,Armazenamento de Dados,armazenamento de dados,0x61D4,4,26.57,90.2,32.1,0,47.1,54.4,24.71,3.12,1.449,ativo,Sem alerta
+29,2026-09-29,Comando Principal,comando,0x81A0,5,45.47,94.0,26.5,0,32.0,30.1,12.48,3.4,0.695,ativo,Sem alerta
+29,2026-09-29,Comunicação Central,comunicação,0x310A,5,97.19,96.1,24.3,0,43.1,40.8,49.31,5.39,5.226,ativo,Sem alerta
+29,2026-09-29,Comunicação Orbital,comunicação,0x32F1,5,72.65,94.5,22.9,0,240.7,233.3,48.76,5.65,4.93,ativo,Sem alerta
+29,2026-09-29,Controle Ambiental,controle,0x82B3,5,8.31,94.4,29.2,0,39.4,39.0,12.06,2.22,0.521,ativo,Sem alerta
+29,2026-09-29,Energia Solar,energia,0x7105,5,2.1,93.6,25.4,0,63.9,64.3,23.96,1.33,0.527,ativo,Sem alerta
+29,2026-09-29,Habitação Alfa,habitação,0x110A,3,21.86,93.4,25.8,0,51.9,51.4,24.16,2.34,0.919,ativo,Sem alerta
+29,2026-09-29,Habitação Beta,habitação,0x120B,3,17.79,89.1,30.1,0,56.6,64.8,24.0,1.97,0.819,ativo,Sem alerta
+29,2026-09-29,Laboratório Biológico,laboratório,0x4208,2,13.27,92.6,23.7,0,76.8,72.4,24.07,1.9,0.748,ativo,Sem alerta
+29,2026-09-29,Laboratório Geológico,laboratório,0x4107,2,14.95,89.8,23.7,0,82.6,87.5,24.58,1.84,0.748,ativo,Sem alerta
+29,2026-09-29,Suporte Médico,suporte médico,0x51C2,5,37.95,92.9,28.7,0,43.0,41.8,24.24,2.73,1.059,ativo,Sem alerta
+30,2026-09-30,Agricultura Hidropônica,agricultura,0x2103,4,3.86,92.1,21.6,0,69.3,65.3,24.03,2.22,0.882,ativo,Sem alerta
+30,2026-09-30,Armazenamento de Dados,armazenamento de dados,0x61D4,4,25.13,93.6,28.0,0,46.9,47.2,23.7,3.04,1.378,ativo,Sem alerta
+30,2026-09-30,Comando Principal,comando,0x81A0,5,38.61,93.3,22.6,0,31.5,31.6,11.91,3.29,0.643,ativo,Sem alerta
+30,2026-09-30,Comunicação Central,comunicação,0x310A,5,87.58,92.5,31.1,0,42.2,43.0,48.84,5.24,4.404,ativo,Sem alerta
+30,2026-09-30,Comunicação Orbital,comunicação,0x32F1,5,69.88,94.2,28.3,0,238.7,248.3,48.03,5.59,4.724,ativo,Sem alerta
+30,2026-09-30,Controle Ambiental,controle,0x82B3,5,21.8,91.0,31.3,0,41.0,43.9,11.93,2.44,0.471,ativo,Sem alerta
+30,2026-09-30,Energia Solar,energia,0x7105,5,8.79,92.9,21.4,0,65.3,68.7,24.12,1.34,0.563,ativo,Sem alerta
+30,2026-09-30,Habitação Alfa,habitação,0x110A,3,7.3,95.7,29.8,0,49.6,48.7,24.28,1.86,0.815,ativo,Sem alerta
+30,2026-09-30,Habitação Beta,habitação,0x120B,3,14.78,94.0,23.1,0,56.1,50.9,24.2,2.03,0.802,ativo,Sem alerta
+30,2026-09-30,Laboratório Biológico,laboratório,0x4208,2,20.94,93.6,24.6,0,78.8,74.5,24.22,1.95,0.76,ativo,Sem alerta
+30,2026-09-30,Laboratório Geológico,laboratório,0x4107,2,19.7,94.2,21.7,0,83.9,87.6,24.36,1.97,0.901,ativo,Sem alerta
+30,2026-09-30,Suporte Médico,suporte médico,0x51C2,5,12.15,95.2,25.1,0,39.9,38.2,24.27,2.29,1.041,ativo,Sem alerta
